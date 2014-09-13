@@ -7,5 +7,4 @@ An Android application that pulls "This Day in History" data from Wikipedia.
 ##Development Guidelines
 Fork the project and commit changes to the existing directory tree. 
 
-#####Note
-Please go over to [@lkmhr's fork](http://github.com/lkmhr/historian) for a more refined version.
+* Please go over to [@lkmhr's fork](http://github.com/lkmhr/historian) for a more refined version.
